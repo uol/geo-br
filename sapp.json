@@ -1,0 +1,17 @@
+{
+    "version": "2.1.0",
+    "maxsize": 100000,
+    "fallback": {
+        "city": "São Paulo",
+        "state": "SP",
+        "found": false
+    },
+    "origins": "*",
+    "precision": 7,
+    "tokens": [
+        "fc0ae500c04c13425dc306c0342ebf85d6f260243c2bf0a9f6b7dbaa040db461"
+    ],
+    "domains": [
+        "test"
+    ]
+}
