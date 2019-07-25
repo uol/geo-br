@@ -135,11 +135,3 @@ if __name__ == '__main__':
         pass
     else:
         app.run(host='0.0.0.0', port=8080, workers=multiprocessing.cpu_count())
-
-
-"""
-_search(-23.643414, -46.759600)
-
-http -v "http://localhost:8080/?lat=-23.643414&lon=-46.759600" X-Token:fc0ae500c04c13425dc306c0342ebf85d6f260243c2bf0a9f6b7dbaa040db461
-http -v "http://localhost:8080/?lat=-3.119856&lon=-60.045" X-Token:fc0ae500c04c13425dc306c0342ebf85d6f260243c2bf0a9f6b7dbaa040db461
-"""

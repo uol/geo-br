@@ -4,7 +4,7 @@ A geolocation library developed in Python to retrieve the user's location in Bra
 
 ## Download
 
-https://stash.uol.intranet/scm/uca/uol.backend.api.geobr.git
+https://github.com/uol/geo-br.git
 
 
 ## Prerequisites
@@ -89,4 +89,4 @@ We use SemVer for versioning. For the versions available, see the tags on this r
 Ivan Rocha - Initial work
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the LICENSE.md file for details
