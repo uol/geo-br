@@ -1,6 +1,6 @@
 fastkml==0.11
 lxml==4.2.5
 python-geohash==0.8.5
-sanic==0.8.3
+sanic==20.12.6
 Sanic-Cors==0.9.6
 Shapely==1.6.4.post2
